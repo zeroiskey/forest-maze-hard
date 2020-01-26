@@ -70,3 +70,4 @@ tiles.setTilemap(tiles.createTilemap(
 tiles.placeOnRandomTile(mySprite, sprites.dungeon.doorOpenWest)
 scene.cameraFollowSprite(mySprite)
 info.startCountdown(20)
+music.playMelody("G F A E B F C E ", 120)
