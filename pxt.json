@@ -1,5 +1,5 @@
 {
-    "name": "forest maze [hard]",
+    "name": "forest walker",
     "dependencies": {
         "device": "*"
     },
